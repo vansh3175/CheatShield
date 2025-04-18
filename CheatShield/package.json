@@ -1,7 +1,7 @@
 {
-  "name": "hello-world",
+  "name": "cheatshield",
   "version": "1.0.0",
-  "description": "Screen monitoring fraud detection application",
+  "description": "Advanced exam monitoring and cheating detection system",
   "main": "dist/app.js",
   "scripts": {
     "start": "ts-node src/app.ts",
